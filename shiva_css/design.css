@@ -1,0 +1,104 @@
+ body{
+    background-image: url(https://i.ytimg.com/vi/kpYT9boF4o0/maxresdefault.jpg);
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-origin: border-box;
+    margin-left: 500px;
+    
+    
+}
+
+.shiva1{
+    border-color: black;
+    border-style: solid;
+    width: 190px;
+    height: 200px;
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+    margin-top:100px;
+    background-color: black;
+    margin-left: 120px;
+    
+}
+.shiva2{
+    border-color: black;
+    border-style: solid;
+    width: 500px;
+    height: 70px;
+    border-top-right-radius: 1090px;
+    border-top-left-radius: 200px;
+    border-bottom-right-radius:200px;
+    border-bottom-left-radius: 200px;
+    margin-top:-34px;
+    background-color: black;
+    
+}
+.shiva3{
+    border-width: 50px;
+    border-color: grey;
+    border-style: solid;
+    margin-right:2000px ;
+    margin-left: 55px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    width: 250px;
+}
+.shiva4{
+    background-color: black;
+    border-style: solid;
+    border-width: 10px;
+    border-top-right-radius: 200px;
+    border-top-left-radius:200px ;
+    margin-right: 1020px;
+    margin-left: 88px;
+    width: 250px;
+}
+.shiva5{
+    border-color:gray;
+    border-style: solid;
+    border-width: 50px;
+    margin-right: 600px;
+    margin-left: 30px;
+    border-top-right-radius: 50px;
+    border-top-left-radius:50px ;
+    
+}
+h1{
+    color:red;
+    font-style: oblique;
+}
+.namah1{
+    border-color: aliceblue;
+    border-width: 2px;
+    border-style: solid;
+    width: 75px;
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.namah2{
+    border-color: aliceblue;
+    border-width: 2px;
+    border-style: solid;
+    margin-top:10px ;
+    margin-left: 60px;
+    margin-right: 50px;
+    background-color: #ffffff;
+
+}
+.namah3{
+    border-color: aliceblue;
+    border-width: 2px;
+    border-style: solid;
+    margin-top:10px ;
+    margin-left: 60px;
+    margin-right: 50px;
+
+}
+.namah4{
+    background-color: red;
+    height: 3px;
+    width: 5px;
+    margin-left: 35px;
+} 
