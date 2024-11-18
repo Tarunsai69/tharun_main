@@ -1,0 +1,40 @@
+.main{
+    border-style: solid;
+    width: 150px;
+    height: 50px;
+    border-radius: 60px;
+    border-top-color:palevioletred;
+    border-bottom-color: aqua;
+    border-left-color: darkorange;
+    border-right-color: chartreuse;
+    border-width: 10px;
+}
+.sub1{
+    
+    
+    margin-left: 40px;
+    margin-top: 15px;
+    padding-left: 10px;
+    font-style:normal;
+    font-size: large;
+    
+
+}
+.list{
+    display: none;
+}
+
+.sub1:hover + .list{
+    display: block;
+}
+.style{
+    border-radius: 200px;
+    border-width: 3px;
+    border-style: solid;
+    margin-left: 50px;
+    height: 100px;
+    width: 200px;
+    padding-left: 100px;
+    border-color: red;
+
+}
